@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="Android 5.0 Google APIs" jdk_type="Android SDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies.jar" scope="PROVIDED"/>
+	<levels>
+		<level name="libs" value="project"/>
+	</levels>
+</component>
